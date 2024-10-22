@@ -6,7 +6,7 @@ This project provides a basic implementation for sending custom packets over a n
 - C++ (in my case I'm using gcc)
 
 ### Usage
-1. Clone the repository:
+
     ```bash
     git clone [https://github.com/username/custom-packet-sender.git](https://github.com/l3ox64/PacketSenderCpp)
     cd PacketSenderCpp
