@@ -15,4 +15,4 @@ This project provides a basic implementation for sending custom packets over a n
 
 
 ### Development Status
-⚠️ **This project is still in development.** Expect breaking changes and
+⚠️ **This project is still in development.**
