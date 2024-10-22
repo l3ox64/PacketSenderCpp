@@ -8,6 +8,7 @@ It allows users to specify the protocol (TCP or UDP), source and destination IP 
 
 ### Usage
 
+command to run
     ```bash
     git clone [https://github.com/username/custom-packet-sender.git](https://github.com/l3ox64/PacketSenderCpp)
     cd PacketSenderCpp
